@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title>makanan khas cilacap</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <div class="main">
