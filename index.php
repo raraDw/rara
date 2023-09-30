@@ -32,7 +32,7 @@
         </div>
         <div class="content">
             <h1>Web Design & <br><span>Develoment</span> <br>course</h1>
-            <p class="halo selamat datang"></p>
+            <p class="par">halo selamat <br> dateng</p>
         </div>
     </div>
 </body>
